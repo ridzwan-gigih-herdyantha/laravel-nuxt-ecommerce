@@ -1,0 +1,26 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "AdminHeader": {
+    "description": "Auto imported from components/admin/header.vue"
+  },
+  "AdminSidebar": {
+    "description": "Auto imported from components/admin/sidebar.vue"
+  },
+  "WebFooter": {
+    "description": "Auto imported from components/web/footer.vue"
+  },
+  "WebHeader": {
+    "description": "Auto imported from components/web/header.vue"
+  },
+  "WebSidebar": {
+    "description": "Auto imported from components/web/sidebar.vue"
+  },
+  "WebSlider": {
+    "description": "Auto imported from components/web/slider.vue"
+  }
+}

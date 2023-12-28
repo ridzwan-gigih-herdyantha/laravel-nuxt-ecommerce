@@ -1,0 +1,170 @@
+[
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\cart\\\\index.vue",
+    "chunkName": "pages/cart/index"
+  },
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\categories\\\\index.vue",
+    "chunkName": "pages/categories/index"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\search\\\\index.vue",
+    "chunkName": "pages/search/index"
+  },
+  {
+    "name": "admin-categories",
+    "path": "/admin/categories",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\categories\\\\index.vue",
+    "chunkName": "pages/admin/categories/index"
+  },
+  {
+    "name": "admin-customers",
+    "path": "/admin/customers",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\customers\\\\index.vue",
+    "chunkName": "pages/admin/customers/index"
+  },
+  {
+    "name": "admin-dashboard",
+    "path": "/admin/dashboard",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/admin/dashboard/index"
+  },
+  {
+    "name": "admin-invoices",
+    "path": "/admin/invoices",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\invoices\\\\index.vue",
+    "chunkName": "pages/admin/invoices/index"
+  },
+  {
+    "name": "admin-login",
+    "path": "/admin/login",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\login.vue",
+    "chunkName": "pages/admin/login"
+  },
+  {
+    "name": "admin-products",
+    "path": "/admin/products",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\products\\\\index.vue",
+    "chunkName": "pages/admin/products/index"
+  },
+  {
+    "name": "admin-sliders",
+    "path": "/admin/sliders",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\sliders\\\\index.vue",
+    "chunkName": "pages/admin/sliders/index"
+  },
+  {
+    "name": "admin-users",
+    "path": "/admin/users",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\users\\\\index.vue",
+    "chunkName": "pages/admin/users/index"
+  },
+  {
+    "name": "customer-dashboard",
+    "path": "/customer/dashboard",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\customer\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/customer/dashboard/index"
+  },
+  {
+    "name": "customer-invoices",
+    "path": "/customer/invoices",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\customer\\\\invoices\\\\index.vue",
+    "chunkName": "pages/customer/invoices/index"
+  },
+  {
+    "name": "customer-login",
+    "path": "/customer/login",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\customer\\\\login.vue",
+    "chunkName": "pages/customer/login"
+  },
+  {
+    "name": "customer-register",
+    "path": "/customer/register",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\customer\\\\register.vue",
+    "chunkName": "pages/customer/register"
+  },
+  {
+    "name": "admin-categories-create",
+    "path": "/admin/categories/create",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\categories\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/categories/create/index"
+  },
+  {
+    "name": "admin-products-create",
+    "path": "/admin/products/create",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\products\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/products/create/index"
+  },
+  {
+    "name": "admin-sliders-create",
+    "path": "/admin/sliders/create",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\sliders\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/sliders/create/index"
+  },
+  {
+    "name": "admin-users-create",
+    "path": "/admin/users/create",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\users\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/users/create/index"
+  },
+  {
+    "name": "admin-categories-edit-id",
+    "path": "/admin/categories/edit/:id?",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\categories\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/categories/edit/_id"
+  },
+  {
+    "name": "admin-invoices-show-id",
+    "path": "/admin/invoices/show/:id?",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\invoices\\\\show\\\\_id.vue",
+    "chunkName": "pages/admin/invoices/show/_id"
+  },
+  {
+    "name": "admin-products-edit-id",
+    "path": "/admin/products/edit/:id?",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\products\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/products/edit/_id"
+  },
+  {
+    "name": "admin-users-edit-id",
+    "path": "/admin/users/edit/:id?",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\admin\\\\users\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/users/edit/_id"
+  },
+  {
+    "name": "customer-invoices-show-snap_token",
+    "path": "/customer/invoices/show/:snap_token?",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\customer\\\\invoices\\\\show\\\\_snap_token.vue",
+    "chunkName": "pages/customer/invoices/show/_snap_token"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\categories\\\\_slug.vue",
+    "chunkName": "pages/categories/_slug"
+  },
+  {
+    "name": "products-slug",
+    "path": "/products/:slug",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\_project\\\\Porto\\\\ecommerce\\\\portofolio-laravel-nuxt-ecommerce-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
